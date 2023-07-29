@@ -28,3 +28,5 @@ Use your new environment
 ```
 
 When you're done using this environment, type ``deactivate`` to return to your normal shell.
+
+Demo on https://app-uber-tuto-cenapzluczuxfwlghuqwxn.streamlit.app.
